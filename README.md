@@ -7,4 +7,7 @@ Higher ordered functions and control statements were the main techniques in desi
 to check them out in the code.
 
 To play the game, double click on the hog_gui.py!
+
 The inner design and game logic are stored in hog.py!
+
+
