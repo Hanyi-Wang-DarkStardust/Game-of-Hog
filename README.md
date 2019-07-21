@@ -63,7 +63,5 @@ To spice up the game, we will play with some special rules:
     
     ucb.py: Utility functions for CS 61A
     
-    hog_eval.py: Utility for evaluating the Hog project
-    
     images: A directory of images used by hog_gui.py
 
